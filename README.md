@@ -1,0 +1,2 @@
+# dotfiles
+Basic noob bashrc
